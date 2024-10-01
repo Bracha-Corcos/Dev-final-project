@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo docker run --name dev-project -d -p 80:5000 brachacorcos/dev-final-project
