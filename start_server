@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo docker run --name devops-project -d -p 80:5000 simchacorcos/devops-project
